@@ -1,4 +1,4 @@
-# module6-challenge
+# API-challenge
 Summary: This two-step project contains various data of weathers and climates of various cities by requesting an api from OpenWeatherMap API and Geoapify API, and by analyzing them to see which city is the best vacation destination. 
 
 ## WeatherPy
